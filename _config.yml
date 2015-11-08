@@ -16,7 +16,7 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "hakkında"
-    href:           "//ytuoyl.github.io/about"
+    href:           "//ytuoyl.github.io/hakkinda"
   - name:           "twitter"
     href:           "//twitter.com/ytuoyl"
 
