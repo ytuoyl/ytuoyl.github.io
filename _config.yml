@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "Özgür Yazılım Locası"
 
 # URL
 baseurl:            ""
@@ -15,10 +15,10 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "hakkında"
+    href:           "//ytuoyl.github.io/about"
+  - name:           "twitter"
+    href:           "//twitter.com/ytuoyl"
 
 # Sass
 sass:
