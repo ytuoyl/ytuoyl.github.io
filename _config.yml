@@ -19,6 +19,8 @@ nav:
     href:           "//ytuoyl.github.io/hakkinda"
   - name:           "twitter"
     href:           "//twitter.com/ytuoyl"
+  - name:           "rss"
+    href:           "https://ytuoyl.github.io/feed"
 
 # Sass
 sass:
